@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "badmintons",
+  "info": {
+    "singularName": "badminton",
+    "pluralName": "badmintons",
+    "displayName": "Badminton"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tim": {
+      "type": "string"
+    },
+    "atlet_main": {
+      "type": "string"
+    },
+    "atlet_secondary": {
+      "type": "string"
+    },
+    "singleOrGanda": {
+      "type": "boolean"
+    },
+    "skor_akhir": {
+      "type": "string"
+    }
+  }
+}

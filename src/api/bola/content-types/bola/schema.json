@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bolas",
+  "info": {
+    "singularName": "bola",
+    "pluralName": "bolas",
+    "displayName": "Bola"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tim": {
+      "type": "string"
+    },
+    "kota": {
+      "type": "string"
+    },
+    "menang": {
+      "type": "string"
+    },
+    "seri": {
+      "type": "string"
+    },
+    "kalah": {
+      "type": "string"
+    },
+    "kartu_kuning": {
+      "type": "string"
+    },
+    "kartu_merah": {
+      "type": "string"
+    },
+    "gol_masuk": {
+      "type": "string"
+    },
+    "gol_kemasukan": {
+      "type": "string"
+    }
+  }
+}

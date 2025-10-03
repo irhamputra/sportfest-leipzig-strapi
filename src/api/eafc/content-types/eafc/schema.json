@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "eafcs",
+  "info": {
+    "singularName": "eafc",
+    "pluralName": "eafcs",
+    "displayName": "EAFC"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nama": {
+      "type": "string"
+    },
+    "menang": {
+      "type": "string"
+    },
+    "kalah": {
+      "type": "string"
+    }
+  }
+}
